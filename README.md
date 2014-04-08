@@ -189,3 +189,10 @@ Time: 2.12 seconds, Memory: 2.00Mb
 
 OK (103 tests, 499 assertions)
 ```
+
+Code Quality Assurance
+----------------------
+
+| SensioLabs Insight | Travis CI | Scrutinizer CI
+| ------------------ | --------- | --------------
+| [![SensioLabsInsight](https://insight.sensiolabs.com/projects/e6ba1358-ea76-4a51-aa44-9965db97d0ad/big.png)](https://insight.sensiolabs.com/projects/e6ba1358-ea76-4a51-aa44-9965db97d0ad) | [![Travis CI status](https://secure.travis-ci.org/easybook/slugger.png?branch=master)](http://travis-ci.org/easybook/slugger) | [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/easybook/slugger/badges/quality-score.png?s=84faa7ae33c525f6deee2f93cfad59bc63b7189e)](https://scrutinizer-ci.com/g/easybook/slugger/)
