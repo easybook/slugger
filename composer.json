@@ -1,5 +1,5 @@
 {
-    "name"        : "easybok/slugger",
+    "name"        : "easybook/slugger",
     "description" : "A fast and easy to use slugger with full UTF-8 support.",
     "license"     : "MIT",
     "type"        : "library",
