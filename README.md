@@ -41,7 +41,7 @@ performance and enough flexibility: it includes four different slugger classes!
     japanese, arabic and hebrew languages). It requires PHP 5.4.0 or higher.
   * `SeoSlugger`, advanced slugger that augments the strings before turning
     them into slugs. For instance, the string `The product #3 costs $9.99` is
-    turned into `the-product-number-3-costs-9-dollars-99-cents.
+    turned into `the-product-number-3-costs-9-dollars-99-cents`.
   * `SeoUtf8Slugger`, combines the `Utf8Slugger` and the `SeoSlugger` to
     augment and slugify any UTF-8 string.
 
